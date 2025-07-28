@@ -6,8 +6,7 @@ A full-stack blog application that allows users to create, read, update, and del
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
-- **Utilities:** Nodemailer, MongoDB (if used)
-- **Templating Engine:** EJS (if applicable)
+- **Utilities:** Nodemailer
 
 ## Features
 
